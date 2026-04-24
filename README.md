@@ -1,2 +1,4 @@
 # MNIST_Detector
-Number detector
+Number detector using cv2 and MNIST dataset
+
+(EARLY ML PROJECT)
